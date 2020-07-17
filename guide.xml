@@ -1,0 +1,3564 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SENAL COLOMBIA">
+    <display-name lang="es">SENAL COLOMBIA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b705921bf5037497005d9bed101f0b5c.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CARACOL">
+    <display-name lang="es">CANAL CARACOL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL RCN">
+    <display-name lang="es">CANAL RCN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/cf484136df087e299aa4f0783c401289.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL INSTITUCIONAL">
+    <display-name lang="es">CANAL INSTITUCIONAL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ec1af6e4bf801b6b3646447296831ba9.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <programme start="20200717000000 +0000" stop="20200717010000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Música Maestro</title>
+    <desc lang="es">Atilano González hace realidad el sueño que juró a su padre antes de morir, de crear una orquesta tropical respetable. La conformación de dicha orquesta no ha sido fácil, pues no contaba con el respaldo de su esposa Isolina. Además de incorporar a Sándalo Daza, que se había retirado de la música y descubrir talentos escondidos, como el caso de Cascarita, un payaso cuya gran fortaleza es el canto(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717010000 +0000" stop="20200717020000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Ekaterina</title>
+    <desc lang="es">Ekaterina es una joven bella e inocente, sueña con el amor verdadero al preparar su boda con el futuro Zar de Rusia Peter III. Sin embargo, su inocencia desaparece a medida que él sólo muestra desprecio, engaño y traición hacia ella. Pero esta mujer cobrará aún más fuerzas al descubrir la verdad y conquistará tanto tierras como corazones, controlará rebeliones y demostrará que una mujer herida, y más aún separada de su hijo, es capaz de todo(n)</desc>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20200717020000 +0000" stop="20200717023000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Dios Te Salve, María</title>
+    <desc lang="es">Los seres de ´Luz´ existen, habitan más cerca de lo que imaginamos. Están en nuestras almas, en nuestros corazones. Sólo tenemos que creer para ver...No ver para creer. A la familia González ha llegado un verdadero ángel de la guarda, pero ¿están ellos preparados para convivir con María, ese ángel encarnado en su empleada doméstica?(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717023000 +0000" stop="20200717030000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Los Pecados De Inés De Hinojosa</title>
+    <desc lang="es">En el siglo XVI, una hermosa mujer mestiza utiliza su belleza y sexualidad como estrategia de transgresión del orden público. Inés de Hinojosa se verá envuelta en una serie de romances, intrigas y tragedias. El deseo sexual intenso hizo que no solamente tuviera amoríos con diferentes hombres estando casada, sino que además planeara el asesinato sus esposos. Además, estableció un romance con su sobrina, Juanita de Hinojosa. Todos estos hechos la llevaron a deshonra pública y a la horca(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717030000 +0000" stop="20200717043600 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Pura Sangre</title>
+    <desc lang="es">Eduardo y Florencia se aman intensamente desde niños a pesar de la abismal diferencia de clase entre ellos que le impone una mordaza a ese amor. Como si esa condena fuera insuficiente, sin que lo sepan, en el pasado yace una amenaza que acecha sus destinos. Florencia es la menor de cinco hijos de Alejandro Lagos, orgulloso criador de caballos de pura sangre y propietario de una gran empresa productos de lácteos. Eduardo es el hijo único de María, el ama de llaves de la casa de los Lagos. Jinete por naturaleza, Eduardo es el amigo leal y el cómplice de juegos y travesuras de Florencia. La infancia de Florencia y Eduardo ha transcurrido sin sobresaltos, ignorantes de ellos y quines más los aman, de que sus vidas son el instrumento a través del cual una vieja deuda de sangre comenzará ser satisfecha. Un siniestro plan de venganza contra todo lo que rodee al apellido Lagos, comienza el día que Alejandro contrata a Paulina Riascos como su nueva asistente(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717043600 +0000" stop="20200717050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Revivamos Nuestra Historia - Bolívar, El Hombre De Las Dificultades</title>
+    <desc lang="es">Una de las producciones más ambiciosas de la historia de la televisión colombiana en el siglo XX. Dedicada a la vida del Libertador, desde su juventud, formación y primeras influencias políticas, hasta la concepción, logros y desencantos de la campaña libertadora y sus últimos años de vida(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717050000 +0000" stop="20200717110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717110000 +0000" stop="20200717170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717170000 +0000" stop="20200717230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717230000 +0000" stop="20200718050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718050000 +0000" stop="20200718110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718110000 +0000" stop="20200718170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718170000 +0000" stop="20200718230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718230000 +0000" stop="20200719050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719050000 +0000" stop="20200719110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719110000 +0000" stop="20200719170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719170000 +0000" stop="20200719230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719230000 +0000" stop="20200720050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720050000 +0000" stop="20200720110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720110000 +0000" stop="20200720170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720170000 +0000" stop="20200720230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720230000 +0000" stop="20200721050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721050000 +0000" stop="20200721110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721110000 +0000" stop="20200721170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721170000 +0000" stop="20200721230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721230000 +0000" stop="20200722050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722050000 +0000" stop="20200722110000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722110000 +0000" stop="20200722170000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722170000 +0000" stop="20200722230000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722230000 +0000" stop="20200723050000 +0000" channel="SENAL COLOMBIA">
+    <title lang="es">Señal Colombia</title>
+    <desc lang="es">Programación Señal Colombia(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717000000 +0000" stop="20200717003000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticiero Del Senado</title>
+    <desc lang="es">Nos cuenta las noticias y los temas más destacados de la semana legislativa en el Senado de la República, como preferencias arancelarias, alianza del pacifico, acuerdos comerciales, entre otros(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717003000 +0000" stop="20200717013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717013000 +0000" stop="20200717030000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+    <desc lang="es">Tres hermanos buscarán vengarse de una poderosa familia que les trajo desgracia, pero se cruzarán a tres hermosas mujeres que cambiarán sus planes(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Danna García</actor>
+      <actor>Mario Cimarro</actor>
+      <actor>Paola Rey</actor>
+      <actor>Juan Alfonso Baptista</actor>
+      <actor>Natasha Klauss</actor>
+      <actor>Michel Brown</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717030000 +0000" stop="20200717040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717040000 +0000" stop="20200717043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717043000 +0000" stop="20200717050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Falsa Identidad</title>
+    <desc lang="es">Cuenta la historia de Isabel y Diego, dos completos desconocidos que tienen que asumir la identidad de un sólido matrimonio para huir del estado de Sonora(n)</desc>
+    <credits>
+      <actor>Luis Ernesto Franco</actor>
+      <actor>Camila Sodi</actor>
+      <actor>Sergio Goyri</actor>
+      <actor>Samadhi Zendejas</actor>
+      <actor>Eduardo Yañez</actor>
+      <actor>Sonya Smith</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200717050000 +0000" stop="20200717063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717063000 +0000" stop="20200717091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717091500 +0000" stop="20200717100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717100000 +0000" stop="20200717101500 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717101500 +0000" stop="20200717103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717103000 +0000" stop="20200717143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717143000 +0000" stop="20200717160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717160000 +0000" stop="20200717164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Cuerpo Del Deseo</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717164500 +0000" stop="20200717173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Corazón Indomable</title>
+    <desc lang="es">La historia de Maricruz Olivares, una joven humilde que ignora sus orígenes y que se enamora de un joven rico, Octavio(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>César Evora</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717173000 +0000" stop="20200717203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717203000 +0000" stop="20200717211500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lazos De Sangre</title>
+    <desc lang="es">La historia de Gülseren, una mujer que 15 años atrás sufre un accidente y al ser llevada al hospital, empieza su trabajo de parto dando a luz a una niña. En el mismo momento y hospital, una adinerada mujer llamada Dilara también se convierte en madre de una niña. Por un error, las niñas son intercambiadas y durante años son criadas en una familia equivocada. Cuando esta verdad es revelada, surgen problemas entre las dos familias debido a las evidentes diferencias socioeconómicas. Esta nueva realidad hará que Gülseren se acerque a Cihan, el esposo de Dilara(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717211500 +0000" stop="20200717221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuna De Lobos</title>
+    <desc lang="es">Narra la historia de Catalina Creel, matriarca de la familia Larios. Una mujer dominante y obsesiva, que no titubea en hacer lo necesario para lograr sus objetivos y proteger sus intereses(n)</desc>
+    <credits>
+      <director>Eric Morales</director>
+      <actor>Paz Vega</actor>
+      <actor>Paulette Hernández</actor>
+      <actor>Gonzalo García Vivanco</actor>
+      <actor>Diego Amozurrutia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717221500 +0000" stop="20200717230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+    <desc lang="es">Cuenta la historia de Meryem, una joven linda y fuerte que en los últimos años ha pasado su vida criando a su hermano huérfano Omer, quien cuando era pequeño fue dejado en manos de Durmus, el padre de la menor. Durmus, tenía la intención de vender a Omer, pero antes de hacerlo, fue llevado a prisión. Meryem, por su parte, siempre ha buscado una vida sana para Omer; su intención es alejarlo de las calles y por esta razón trabaja día y noche para poder brindarle una vida estable. Sin pensarlo, los caminos de Meryem se cruzarán con Levent Metehanoğlu el padre biológico de Omer(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717230000 +0000" stop="20200718000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+    <desc lang="es">Más que un seriado inspirado en un programa radial. Es un espacio en el que convergen desde relatos de amor y de despecho, hasta conflictos juveniles y familiares. El aborto, el suicidio, la bulimia, los problemas de adicción, el amor y el desamor son algunos de los temas que llaman la atención de los televidentes en este seriado. Michelle Rouillard es Sara, una periodista sagaz y rebelde que conduce un popular programa radial en el que los oyentes son los protagonistas de las más insólitas y dramáticas historias en las que, sin proponérselo, ella termina involucrándose. La necesidad de ser escuchados impulsa a los oyentes a comunicarse con el programa para desahogarse, denunciar, compartir, opinar y hasta pedir auxilio. Sara no está sola. Sebastián, interpretado por Alejandro Estrada, es su compañero de fórmula. Este ingeniero de sistemas es el productor del espacio radial. Juntos conforman una pareja altruista y solidaria. Las dificultades de sus oyentes son también las suyas(n)</desc>
+    <credits>
+      <actor>Michelle Rouillard</actor>
+      <actor>Pedro Falla</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718000000 +0000" stop="20200718013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718013000 +0000" stop="20200718030000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+    <desc lang="es">Tres hermanos buscarán vengarse de una poderosa familia que les trajo desgracia, pero se cruzarán a tres hermosas mujeres que cambiarán sus planes(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Danna García</actor>
+      <actor>Mario Cimarro</actor>
+      <actor>Paola Rey</actor>
+      <actor>Juan Alfonso Baptista</actor>
+      <actor>Natasha Klauss</actor>
+      <actor>Michel Brown</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718030000 +0000" stop="20200718040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718040000 +0000" stop="20200718043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718043000 +0000" stop="20200718050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Falsa Identidad</title>
+    <desc lang="es">Cuenta la historia de Isabel y Diego, dos completos desconocidos que tienen que asumir la identidad de un sólido matrimonio para huir del estado de Sonora(n)</desc>
+    <credits>
+      <actor>Luis Ernesto Franco</actor>
+      <actor>Camila Sodi</actor>
+      <actor>Sergio Goyri</actor>
+      <actor>Samadhi Zendejas</actor>
+      <actor>Eduardo Yañez</actor>
+      <actor>Sonya Smith</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200718050000 +0000" stop="20200718063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718063000 +0000" stop="20200718100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718100000 +0000" stop="20200718110000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718110000 +0000" stop="20200718120000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+    <desc lang="es">Aurelio, Dinodoro y Mery son los peluches que decoran la habitación de Juliana y que acompañan a la niña en todos sus momentos. En determinados instantes cobran vida e inadvertidamente comienzan a interactuar entre ellos y con la niña, quien luego de superar la sorpresa se compromete a guardar este secreto. El problema para Juli es que estos personajes son terriblemente traviesos, problemáticos y aventureros, y con ese carácter meterán en graves problemas a Juliana, quien deberá poner la cara y echarse la culpa de las travesuras cometidas por los peluches ante sus padres y su Abuelo. Los adultos nunca lograrán comprender cómo es que la niña se volvió tan necia de la noche a la mañana. Y el televidente siempre tendrá la duda si el hecho de que los peluches hablen es producto de la imaginación de la niña o si en realidad en esa habitación de Juli, suceden eventos mágicos(n)</desc>
+    <credits>
+      <actor>Juliana Velásquez</actor>
+      <actor>Aurelio</actor>
+      <actor>Dinodoro</actor>
+      <actor>Mery Moon</actor>
+      <actor>Caro Molina</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718120000 +0000" stop="20200718123000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Doble Vía</title>
+    <desc lang="es">Dudas, quejas, reclamos todo tiene solución cuando de defender al televidente se trata. Doble Vía es el espacio del Defensor del Televidente, en el Canal Caracol. Un programa de 30 minutos tipo magazín que se transmite todos los jueves en la madrugada y en el cual se ofrecen diferentes puntos de vista sobre el contenido de la programación basados en los correos, llamadas y comentarios que nos sugieren los televidentes. En este espacio, el Canal Caracol permite la autocrítica, el análisis y la opinión de manera libre y espontánea con toda la independencia que caracteriza la figura del Defensor. El programa aborda diferentes temas que están relacionados con el contenido de las telenovelas, los informativos y, en general, toda la programación, para que se garanticen los derechos al buen nombre, a la intimidad y a estar bien informados. Basándose en la ley de infancia, el Defensor del Televidente vigila que la programación no exceda su contenido con escenas de sexo y violencia. Todo esto con el fin de garantizarle a cada colombiano un equilibrado acceso a la televisión. Finalmente, el Defensor actúa como mediador entre lo que espera el público televidente y la responsabilidad del medio. El programa está dirigido por la periodista Amparo Pérez y realizado por las comunicadoras Juliana Tabares y Luisa Fernanda Nieto(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718123000 +0000" stop="20200718133000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+    <desc lang="es">Aurelio, Dinodoro y Mery son los peluches que decoran la habitación de Juliana y que acompañan a la niña en todos sus momentos. En determinados instantes cobran vida e inadvertidamente comienzan a interactuar entre ellos y con la niña, quien luego de superar la sorpresa se compromete a guardar este secreto. El problema para Juli es que estos personajes son terriblemente traviesos, problemáticos y aventureros, y con ese carácter meterán en graves problemas a Juliana, quien deberá poner la cara y echarse la culpa de las travesuras cometidas por los peluches ante sus padres y su Abuelo. Los adultos nunca lograrán comprender cómo es que la niña se volvió tan necia de la noche a la mañana. Y el televidente siempre tendrá la duda si el hecho de que los peluches hablen es producto de la imaginación de la niña o si en realidad en esa habitación de Juli, suceden eventos mágicos(n)</desc>
+    <credits>
+      <actor>Juliana Velásquez</actor>
+      <actor>Aurelio</actor>
+      <actor>Dinodoro</actor>
+      <actor>Mery Moon</actor>
+      <actor>Caro Molina</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718133000 +0000" stop="20200718141500 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Creada por el humorista Chespirito como parodia de los programas de superhéroes, nació dentro del espacio Los supergenios de la mesa cuadrada y, desde 1972 a 1979, se desarrolló como serie propia para luego incorporarse a la serie Chespirito. Chapulín, con frecuencia, y por equivocación, atrapaba a las personas inocentes y dejaba ir a los criminales, causando situaciones graciosas(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdes</actor>
+      <actor>Edgar Vivar</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718141500 +0000" stop="20200718151500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Chespirito</title>
+    <desc lang="es">Con más de 30 años en el ambiente, Chespirito viene a divertir a una nueva generación no sólo de niños si no también de adultos con su actuación de hombre débil de constitución, pero con la fuerza espiritual necesaria para triunfar invariablemente. Chespirito, llena de humor y diversión el programa, creando personajes como el célebre Chapulín Colorado y otros personajes de una gran comicidad(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718151500 +0000" stop="20200718173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Vive El Gol Caracol</title>
+    <desc lang="es">Copa América 1999: Colombia vs. Argentina. Vive El Gol Caracol(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718173000 +0000" stop="20200718200000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718200000 +0000" stop="20200718230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Red</title>
+    <desc lang="es">Los periodistas más picantes de la farándula colombiana se juntaron para encender la temperatura de los fines de semana en Caracol Televisión. Diva Jessurum, Carlos Vargas, Ronald Mayorga y Frank Solano son La Red. Los 4 conforman el equipo más dateado en materia de entretenimiento. Ellos serán los encargados de contarle al país las chivas, los chismes y la información exclusiva de lo que ocurre con las estrellas. Pero no estarán solos, los colombianos también podrán unirse a La Red, enviando fotos, videos e incluso ganando dinero cazando a los famosos(n)</desc>
+    <credits>
+      <actor>Carlos Vargas Moreno</actor>
+      <actor>Diva Jessurum</actor>
+      <actor>Ronald Mayorga</actor>
+      <actor>Frank Solano</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718230000 +0000" stop="20200719000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Se Dice De Mi</title>
+    <desc lang="es">Por primera vez los personajes revelarán sus secretos más íntimos y se verán enfrentados a los comentarios buenos y malos que existen sobre su vida(n)</desc>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719000000 +0000" stop="20200719013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719013000 +0000" stop="20200719040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Sábados Felices</title>
+    <desc lang="es">Este es un programa en el que la risa es el principal ingrediente. Las parodias, los chistes y las caracterizaciones hacen que Sábados Felices sea el espacio más exitoso de la televisión colombiana(n)</desc>
+    <credits>
+      <actor>Enrique Colavizza</actor>
+      <actor>César Corredor</actor>
+      <actor>Marcelino Rodríguez</actor>
+      <actor>Fabiola Posada</actor>
+      <actor>Juan Ricardo Lozano</actor>
+      <actor>Álvaro Lemmon</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719040000 +0000" stop="20200719050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Entre Ojos</title>
+    <desc lang="es">Es un espacio dedicado a descubrir hechos reales y hacerlos públicos, a través de reportajes y documentales(n)</desc>
+    <category lang="es">Documental</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719050000 +0000" stop="20200719063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719063000 +0000" stop="20200719100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719100000 +0000" stop="20200719110000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719110000 +0000" stop="20200719120000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+    <desc lang="es">Aurelio, Dinodoro y Mery son los peluches que decoran la habitación de Juliana y que acompañan a la niña en todos sus momentos. En determinados instantes cobran vida e inadvertidamente comienzan a interactuar entre ellos y con la niña, quien luego de superar la sorpresa se compromete a guardar este secreto. El problema para Juli es que estos personajes son terriblemente traviesos, problemáticos y aventureros, y con ese carácter meterán en graves problemas a Juliana, quien deberá poner la cara y echarse la culpa de las travesuras cometidas por los peluches ante sus padres y su Abuelo. Los adultos nunca lograrán comprender cómo es que la niña se volvió tan necia de la noche a la mañana. Y el televidente siempre tendrá la duda si el hecho de que los peluches hablen es producto de la imaginación de la niña o si en realidad en esa habitación de Juli, suceden eventos mágicos(n)</desc>
+    <credits>
+      <actor>Juliana Velásquez</actor>
+      <actor>Aurelio</actor>
+      <actor>Dinodoro</actor>
+      <actor>Mery Moon</actor>
+      <actor>Caro Molina</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200719120000 +0000" stop="20200719123000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Creada por el humorista Chespirito como parodia de los programas de superhéroes, nació dentro del espacio Los supergenios de la mesa cuadrada y, desde 1972 a 1979, se desarrolló como serie propia para luego incorporarse a la serie Chespirito. Chapulín, con frecuencia, y por equivocación, atrapaba a las personas inocentes y dejaba ir a los criminales, causando situaciones graciosas(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdes</actor>
+      <actor>Edgar Vivar</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719123000 +0000" stop="20200719133000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Chespirito</title>
+    <desc lang="es">Con más de 30 años en el ambiente, Chespirito viene a divertir a una nueva generación no sólo de niños si no también de adultos con su actuación de hombre débil de constitución, pero con la fuerza espiritual necesaria para triunfar invariablemente. Chespirito, llena de humor y diversión el programa, creando personajes como el célebre Chapulín Colorado y otros personajes de una gran comicidad(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200719133000 +0000" stop="20200719140000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Mundo Visto Desde El Vaticano</title>
+    <desc lang="es">El Mundo Visto Desde El Vaticano(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719140000 +0000" stop="20200719150000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Encuentra muy temprano en la mañana la tradicional misa dominical(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719150000 +0000" stop="20200719151500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Angelus Desde El Vaticano</title>
+    <desc lang="es">Angelus Desde El Vaticano(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719151500 +0000" stop="20200719173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Vive El Gol Caracol</title>
+    <desc lang="es">Final Copa América 2001: Colombia vs. México. Vive El Gol Caracol(n)</desc>
+    <category lang="es">Deporte</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719173000 +0000" stop="20200719200000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719200000 +0000" stop="20200719220000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Red</title>
+    <desc lang="es">Los periodistas más picantes de la farándula colombiana se juntaron para encender la temperatura de los fines de semana en Caracol Televisión. Diva Jessurum, Carlos Vargas, Ronald Mayorga y Frank Solano son La Red. Los 4 conforman el equipo más dateado en materia de entretenimiento. Ellos serán los encargados de contarle al país las chivas, los chismes y la información exclusiva de lo que ocurre con las estrellas. Pero no estarán solos, los colombianos también podrán unirse a La Red, enviando fotos, videos e incluso ganando dinero cazando a los famosos(n)</desc>
+    <credits>
+      <actor>Carlos Vargas Moreno</actor>
+      <actor>Diva Jessurum</actor>
+      <actor>Ronald Mayorga</actor>
+      <actor>Frank Solano</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719220000 +0000" stop="20200719230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Expediente Final</title>
+    <desc lang="es">Aquí vamos a descubrir secretos nunca contados para esclarecer la muerte de personalidades célebres(n)</desc>
+    <credits>
+      <actor>Diva Jessurum</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719230000 +0000" stop="20200720000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Suso´s Show</title>
+    <desc lang="es">Un programa de entrevistas donde a través del humor, el público conocerá la vida de las figuras más importantes e influyentes del país(n)</desc>
+    <credits>
+      <actor>Dany Hoyos</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720000000 +0000" stop="20200720013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720013000 +0000" stop="20200720023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Los Informantes</title>
+    <desc lang="es">Programa de análisis y opinión con una excelente factura y un equipo periodístico conformado por 17 profesionales destacados. Dirigido y presentado por María Elvira Arango. Es un programa que cuenta buenas historias a través de crónicas, perfiles y entrevistas. Estamos presentando otra opción a la audiencia que le permita mantenerse informada, afirma su directora. Está dividido en tres segmentos, cada uno de ellos con un relato interesante y trabajado ampliamente. Para el cierre, Gustavo Gómez presenta Último minuto, un espacio editorial narrado con el particular estilo de este periodista irreverente y lleno de datos(n)</desc>
+    <credits>
+      <director>María Elvira Arango</director>
+      <actor>María Elvira Arango</actor>
+      <actor>Gustavo Gómez</actor>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720023000 +0000" stop="20200720033000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Séptimo Día</title>
+    <desc lang="es">Este programa hace del periodismo un arma contra la injusticia. Viva de cerca las historias más impactantes de la realidad colombiana. Séptimo día es un magazín de noticias dedicado al periodismo investigativo. Su principal objetivo es ofrecerles a los televidentes herramientas que les permitan formar criterios frente a diversos temas. El programa regresa con tres segmentos de información. El primero, enfocado en temas polémicos que pocos se atreven a tocar de manera profunda y en el que confluyen todos los puntos de vista para lograr un debate equilibrado. El segundo bloque está dedicado a la investigación minuciosa de las denuncias que los ciudadanos hacen a diario. Las reacciones y las opiniones de todos los implicados hacen parte de este espacio. Al final, los televidentes tienen la oportunidad de ver una crónica refrescante de cosas que les suceden a las personas en su cotidianidad, situaciones extraordinarias y totalmente fuera de lo común. Detrás de cada historia hay un ser humano que vive un drama real. Bienvenidos a Séptimo día(n)</desc>
+    <credits>
+      <actor>Teodoro</actor>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720033000 +0000" stop="20200720051500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noches De Premier: Red</title>
+    <desc lang="es">Las mejores películas están en el canal Caracol(n)</desc>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720051500 +0000" stop="20200720064500 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720064500 +0000" stop="20200720103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720103000 +0000" stop="20200720130000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+    <desc lang="es">Aurelio, Dinodoro y Mery son los peluches que decoran la habitación de Juliana y que acompañan a la niña en todos sus momentos. En determinados instantes cobran vida e inadvertidamente comienzan a interactuar entre ellos y con la niña, quien luego de superar la sorpresa se compromete a guardar este secreto. El problema para Juli es que estos personajes son terriblemente traviesos, problemáticos y aventureros, y con ese carácter meterán en graves problemas a Juliana, quien deberá poner la cara y echarse la culpa de las travesuras cometidas por los peluches ante sus padres y su Abuelo. Los adultos nunca lograrán comprender cómo es que la niña se volvió tan necia de la noche a la mañana. Y el televidente siempre tendrá la duda si el hecho de que los peluches hablen es producto de la imaginación de la niña o si en realidad en esa habitación de Juli, suceden eventos mágicos(n)</desc>
+    <credits>
+      <actor>Juliana Velásquez</actor>
+      <actor>Aurelio</actor>
+      <actor>Dinodoro</actor>
+      <actor>Mery Moon</actor>
+      <actor>Caro Molina</actor>
+    </credits>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200720130000 +0000" stop="20200720143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Chespirito</title>
+    <desc lang="es">Con más de 30 años en el ambiente, Chespirito viene a divertir a una nueva generación no sólo de niños si no también de adultos con su actuación de hombre débil de constitución, pero con la fuerza espiritual necesaria para triunfar invariablemente. Chespirito, llena de humor y diversión el programa, creando personajes como el célebre Chapulín Colorado y otros personajes de una gran comicidad(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200720143000 +0000" stop="20200720153000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Creada por el humorista Chespirito como parodia de los programas de superhéroes, nació dentro del espacio Los supergenios de la mesa cuadrada y, desde 1972 a 1979, se desarrolló como serie propia para luego incorporarse a la serie Chespirito. Chapulín, con frecuencia, y por equivocación, atrapaba a las personas inocentes y dejaba ir a los criminales, causando situaciones graciosas(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdes</actor>
+      <actor>Edgar Vivar</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720153000 +0000" stop="20200720173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pura Diversión: 13 Going On 30</title>
+    <desc lang="es">Las mejores películas están en el canal Caracol(n)</desc>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720173000 +0000" stop="20200720183000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720183000 +0000" stop="20200720211500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Acción Pura: The Next Three Days</title>
+    <desc lang="es">Las mejores películas están en el canal Caracol(n)</desc>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720211500 +0000" stop="20200721000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Festivo Premier: The Accountant</title>
+    <desc lang="es">Las mejores películas están en el canal Caracol(n)</desc>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721000000 +0000" stop="20200721013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721013000 +0000" stop="20200721023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Colombia Cuida A Colombia</title>
+    <desc lang="es">Colombia Cuida A Colombia(n)</desc>
+    <category lang="es">Especial</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721023000 +0000" stop="20200721033000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Rastro</title>
+    <desc lang="es">Programa de crónicas(n)</desc>
+    <category lang="es">Investigacion</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721033000 +0000" stop="20200721053000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noches De Premier: The Legend Of Tarzan</title>
+    <desc lang="es">Las mejores películas están en el canal Caracol(n)</desc>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721053000 +0000" stop="20200721070000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721070000 +0000" stop="20200721091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721091500 +0000" stop="20200721100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721100000 +0000" stop="20200721101500 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721101500 +0000" stop="20200721103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721103000 +0000" stop="20200721143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721143000 +0000" stop="20200721160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721160000 +0000" stop="20200721164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Cuerpo Del Deseo</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721164500 +0000" stop="20200721173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Corazón Indomable</title>
+    <desc lang="es">La historia de Maricruz Olivares, una joven humilde que ignora sus orígenes y que se enamora de un joven rico, Octavio(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>César Evora</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721173000 +0000" stop="20200721203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721203000 +0000" stop="20200721211500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lazos De Sangre</title>
+    <desc lang="es">La historia de Gülseren, una mujer que 15 años atrás sufre un accidente y al ser llevada al hospital, empieza su trabajo de parto dando a luz a una niña. En el mismo momento y hospital, una adinerada mujer llamada Dilara también se convierte en madre de una niña. Por un error, las niñas son intercambiadas y durante años son criadas en una familia equivocada. Cuando esta verdad es revelada, surgen problemas entre las dos familias debido a las evidentes diferencias socioeconómicas. Esta nueva realidad hará que Gülseren se acerque a Cihan, el esposo de Dilara(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721211500 +0000" stop="20200721221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuna De Lobos</title>
+    <desc lang="es">Narra la historia de Catalina Creel, matriarca de la familia Larios. Una mujer dominante y obsesiva, que no titubea en hacer lo necesario para lograr sus objetivos y proteger sus intereses(n)</desc>
+    <credits>
+      <director>Eric Morales</director>
+      <actor>Paz Vega</actor>
+      <actor>Paulette Hernández</actor>
+      <actor>Gonzalo García Vivanco</actor>
+      <actor>Diego Amozurrutia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721221500 +0000" stop="20200721230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+    <desc lang="es">Cuenta la historia de Meryem, una joven linda y fuerte que en los últimos años ha pasado su vida criando a su hermano huérfano Omer, quien cuando era pequeño fue dejado en manos de Durmus, el padre de la menor. Durmus, tenía la intención de vender a Omer, pero antes de hacerlo, fue llevado a prisión. Meryem, por su parte, siempre ha buscado una vida sana para Omer; su intención es alejarlo de las calles y por esta razón trabaja día y noche para poder brindarle una vida estable. Sin pensarlo, los caminos de Meryem se cruzarán con Levent Metehanoğlu el padre biológico de Omer(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721230000 +0000" stop="20200722000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+    <desc lang="es">Más que un seriado inspirado en un programa radial. Es un espacio en el que convergen desde relatos de amor y de despecho, hasta conflictos juveniles y familiares. El aborto, el suicidio, la bulimia, los problemas de adicción, el amor y el desamor son algunos de los temas que llaman la atención de los televidentes en este seriado. Michelle Rouillard es Sara, una periodista sagaz y rebelde que conduce un popular programa radial en el que los oyentes son los protagonistas de las más insólitas y dramáticas historias en las que, sin proponérselo, ella termina involucrándose. La necesidad de ser escuchados impulsa a los oyentes a comunicarse con el programa para desahogarse, denunciar, compartir, opinar y hasta pedir auxilio. Sara no está sola. Sebastián, interpretado por Alejandro Estrada, es su compañero de fórmula. Este ingeniero de sistemas es el productor del espacio radial. Juntos conforman una pareja altruista y solidaria. Las dificultades de sus oyentes son también las suyas(n)</desc>
+    <credits>
+      <actor>Michelle Rouillard</actor>
+      <actor>Pedro Falla</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722000000 +0000" stop="20200722013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722013000 +0000" stop="20200722030000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+    <desc lang="es">Tres hermanos buscarán vengarse de una poderosa familia que les trajo desgracia, pero se cruzarán a tres hermosas mujeres que cambiarán sus planes(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Danna García</actor>
+      <actor>Mario Cimarro</actor>
+      <actor>Paola Rey</actor>
+      <actor>Juan Alfonso Baptista</actor>
+      <actor>Natasha Klauss</actor>
+      <actor>Michel Brown</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722030000 +0000" stop="20200722040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722040000 +0000" stop="20200722043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722043000 +0000" stop="20200722050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Falsa Identidad</title>
+    <desc lang="es">Cuenta la historia de Isabel y Diego, dos completos desconocidos que tienen que asumir la identidad de un sólido matrimonio para huir del estado de Sonora(n)</desc>
+    <credits>
+      <actor>Luis Ernesto Franco</actor>
+      <actor>Camila Sodi</actor>
+      <actor>Sergio Goyri</actor>
+      <actor>Samadhi Zendejas</actor>
+      <actor>Eduardo Yañez</actor>
+      <actor>Sonya Smith</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200722050000 +0000" stop="20200722063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722063000 +0000" stop="20200722091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722091500 +0000" stop="20200722100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722100000 +0000" stop="20200722101500 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722101500 +0000" stop="20200722103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722103000 +0000" stop="20200722143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722143000 +0000" stop="20200722160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722160000 +0000" stop="20200722164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Cuerpo Del Deseo</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722164500 +0000" stop="20200722173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Corazón Indomable</title>
+    <desc lang="es">La historia de Maricruz Olivares, una joven humilde que ignora sus orígenes y que se enamora de un joven rico, Octavio(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>César Evora</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722173000 +0000" stop="20200722203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722203000 +0000" stop="20200722211500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lazos De Sangre</title>
+    <desc lang="es">La historia de Gülseren, una mujer que 15 años atrás sufre un accidente y al ser llevada al hospital, empieza su trabajo de parto dando a luz a una niña. En el mismo momento y hospital, una adinerada mujer llamada Dilara también se convierte en madre de una niña. Por un error, las niñas son intercambiadas y durante años son criadas en una familia equivocada. Cuando esta verdad es revelada, surgen problemas entre las dos familias debido a las evidentes diferencias socioeconómicas. Esta nueva realidad hará que Gülseren se acerque a Cihan, el esposo de Dilara(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722211500 +0000" stop="20200722221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuna De Lobos</title>
+    <desc lang="es">Narra la historia de Catalina Creel, matriarca de la familia Larios. Una mujer dominante y obsesiva, que no titubea en hacer lo necesario para lograr sus objetivos y proteger sus intereses(n)</desc>
+    <credits>
+      <director>Eric Morales</director>
+      <actor>Paz Vega</actor>
+      <actor>Paulette Hernández</actor>
+      <actor>Gonzalo García Vivanco</actor>
+      <actor>Diego Amozurrutia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722221500 +0000" stop="20200722230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+    <desc lang="es">Cuenta la historia de Meryem, una joven linda y fuerte que en los últimos años ha pasado su vida criando a su hermano huérfano Omer, quien cuando era pequeño fue dejado en manos de Durmus, el padre de la menor. Durmus, tenía la intención de vender a Omer, pero antes de hacerlo, fue llevado a prisión. Meryem, por su parte, siempre ha buscado una vida sana para Omer; su intención es alejarlo de las calles y por esta razón trabaja día y noche para poder brindarle una vida estable. Sin pensarlo, los caminos de Meryem se cruzarán con Levent Metehanoğlu el padre biológico de Omer(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722230000 +0000" stop="20200723000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+    <desc lang="es">Más que un seriado inspirado en un programa radial. Es un espacio en el que convergen desde relatos de amor y de despecho, hasta conflictos juveniles y familiares. El aborto, el suicidio, la bulimia, los problemas de adicción, el amor y el desamor son algunos de los temas que llaman la atención de los televidentes en este seriado. Michelle Rouillard es Sara, una periodista sagaz y rebelde que conduce un popular programa radial en el que los oyentes son los protagonistas de las más insólitas y dramáticas historias en las que, sin proponérselo, ella termina involucrándose. La necesidad de ser escuchados impulsa a los oyentes a comunicarse con el programa para desahogarse, denunciar, compartir, opinar y hasta pedir auxilio. Sara no está sola. Sebastián, interpretado por Alejandro Estrada, es su compañero de fórmula. Este ingeniero de sistemas es el productor del espacio radial. Juntos conforman una pareja altruista y solidaria. Las dificultades de sus oyentes son también las suyas(n)</desc>
+    <credits>
+      <actor>Michelle Rouillard</actor>
+      <actor>Pedro Falla</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723000000 +0000" stop="20200723013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723013000 +0000" stop="20200723030000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+    <desc lang="es">Tres hermanos buscarán vengarse de una poderosa familia que les trajo desgracia, pero se cruzarán a tres hermosas mujeres que cambiarán sus planes(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Danna García</actor>
+      <actor>Mario Cimarro</actor>
+      <actor>Paola Rey</actor>
+      <actor>Juan Alfonso Baptista</actor>
+      <actor>Natasha Klauss</actor>
+      <actor>Michel Brown</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723030000 +0000" stop="20200723040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723040000 +0000" stop="20200723043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723043000 +0000" stop="20200723050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Falsa Identidad</title>
+    <desc lang="es">Cuenta la historia de Isabel y Diego, dos completos desconocidos que tienen que asumir la identidad de un sólido matrimonio para huir del estado de Sonora(n)</desc>
+    <credits>
+      <actor>Luis Ernesto Franco</actor>
+      <actor>Camila Sodi</actor>
+      <actor>Sergio Goyri</actor>
+      <actor>Samadhi Zendejas</actor>
+      <actor>Eduardo Yañez</actor>
+      <actor>Sonya Smith</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200723050000 +0000" stop="20200723063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+    <desc lang="es">Dos gemelos idénticos, con personalidades completamente diferentes, se enamoran de la misma mujer(n)</desc>
+    <credits>
+      <director>Claudia Elisa Aguilar</director>
+      <actor>Livia Brito</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Marcelo Córdoba</actor>
+      <actor>Aaron Hernan</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723063000 +0000" stop="20200723091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+    <desc lang="es">Programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes. Durante varios años, se ha caracterizado por hacer bromas sanas sin comprometer la integridad de las personas, bajo el formato de cámara escondida, tal vez el más antiguo y vigente formato de reality(n)</desc>
+    <credits>
+      <actor>César Escola</actor>
+      <actor>Mary Méndez</actor>
+      <actor>Juan Carlos Villegas</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723091500 +0000" stop="20200723100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+    <desc lang="es">Conoce la historia del cantautor de música vallenata Rafael Orozco quien se ganó el corazón de sus numerosos seguidores con sus sentidas canciones(n)</desc>
+    <credits>
+      <director>Andrés Marroquín</director>
+      <actor>Alejandro Palacio</actor>
+      <actor>Taliana Vargas</actor>
+      <actor>Maritza Rodríguez</actor>
+      <actor>Mario Espitia</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723100000 +0000" stop="20200723101500 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+    <desc lang="es">Información y asesoría sobre el mundo del campo(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723101500 +0000" stop="20200723103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723103000 +0000" stop="20200723143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723143000 +0000" stop="20200723160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+    <desc lang="es">Comience su día con grandes invitados, humor, concursos y muchas cosas más(n)</desc>
+    <credits>
+      <actor>Catalina Gómez</actor>
+      <actor>Mónica Rodríguez</actor>
+      <actor>Mauricio Vélez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723160000 +0000" stop="20200723164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Cuerpo Del Deseo</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723164500 +0000" stop="20200723173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Corazón Indomable</title>
+    <desc lang="es">La historia de Maricruz Olivares, una joven humilde que ignora sus orígenes y que se enamora de un joven rico, Octavio(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>César Evora</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723173000 +0000" stop="20200723203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723203000 +0000" stop="20200723211500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lazos De Sangre</title>
+    <desc lang="es">La historia de Gülseren, una mujer que 15 años atrás sufre un accidente y al ser llevada al hospital, empieza su trabajo de parto dando a luz a una niña. En el mismo momento y hospital, una adinerada mujer llamada Dilara también se convierte en madre de una niña. Por un error, las niñas son intercambiadas y durante años son criadas en una familia equivocada. Cuando esta verdad es revelada, surgen problemas entre las dos familias debido a las evidentes diferencias socioeconómicas. Esta nueva realidad hará que Gülseren se acerque a Cihan, el esposo de Dilara(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723211500 +0000" stop="20200723221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuna De Lobos</title>
+    <desc lang="es">Narra la historia de Catalina Creel, matriarca de la familia Larios. Una mujer dominante y obsesiva, que no titubea en hacer lo necesario para lograr sus objetivos y proteger sus intereses(n)</desc>
+    <credits>
+      <director>Eric Morales</director>
+      <actor>Paz Vega</actor>
+      <actor>Paulette Hernández</actor>
+      <actor>Gonzalo García Vivanco</actor>
+      <actor>Diego Amozurrutia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723221500 +0000" stop="20200723230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+    <desc lang="es">Cuenta la historia de Meryem, una joven linda y fuerte que en los últimos años ha pasado su vida criando a su hermano huérfano Omer, quien cuando era pequeño fue dejado en manos de Durmus, el padre de la menor. Durmus, tenía la intención de vender a Omer, pero antes de hacerlo, fue llevado a prisión. Meryem, por su parte, siempre ha buscado una vida sana para Omer; su intención es alejarlo de las calles y por esta razón trabaja día y noche para poder brindarle una vida estable. Sin pensarlo, los caminos de Meryem se cruzarán con Levent Metehanoğlu el padre biológico de Omer(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723230000 +0000" stop="20200723235800 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+    <desc lang="es">Más que un seriado inspirado en un programa radial. Es un espacio en el que convergen desde relatos de amor y de despecho, hasta conflictos juveniles y familiares. El aborto, el suicidio, la bulimia, los problemas de adicción, el amor y el desamor son algunos de los temas que llaman la atención de los televidentes en este seriado. Michelle Rouillard es Sara, una periodista sagaz y rebelde que conduce un popular programa radial en el que los oyentes son los protagonistas de las más insólitas y dramáticas historias en las que, sin proponérselo, ella termina involucrándose. La necesidad de ser escuchados impulsa a los oyentes a comunicarse con el programa para desahogarse, denunciar, compartir, opinar y hasta pedir auxilio. Sara no está sola. Sebastián, interpretado por Alejandro Estrada, es su compañero de fórmula. Este ingeniero de sistemas es el productor del espacio radial. Juntos conforman una pareja altruista y solidaria. Las dificultades de sus oyentes son también las suyas(n)</desc>
+    <credits>
+      <actor>Michelle Rouillard</actor>
+      <actor>Pedro Falla</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723235800 +0000" stop="20200724000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+    <desc lang="es">La más completa información de Colombia y el mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717000000 +0000" stop="20200717003000 +0000" channel="CANAL RCN">
+    <title lang="es">Inf. De La Camara</title>
+    <desc lang="es">Inf. De La Camara(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717003000 +0000" stop="20200717010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717010000 +0000" stop="20200717020000 +0000" channel="CANAL RCN">
+    <title lang="es">Diomedes</title>
+    <desc lang="es">La historia de la vida y obra de un personaje que sin duda hace parte de nuestra historia musical y quien logró inmortalizarse a través de sus canciones(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717020000 +0000" stop="20200717030000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor Sincero</title>
+    <desc lang="es">Cuenta la vida de la artista colombiana Marbelle, desde los inicios de su carrera, hasta que se convierte en la estrella que es hoy en día(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Marcela Benjumea</actor>
+      <actor>Carlos Manuel Vesga</actor>
+      <actor>Marbelle</actor>
+      <actor>Rodolfo Silva</actor>
+      <actor>Yuri Vargas</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717030000 +0000" stop="20200717040000 +0000" channel="CANAL RCN">
+    <title lang="es">Verdad Oculta</title>
+    <desc lang="es">La historia de la coronel Diana, quien después de capturar a un narcotraficante intenta salvar su matrimonio, pero todo da un giro inesperado(n)</desc>
+    <credits>
+      <actor>Verónica Orozco</actor>
+      <actor>Rodrigo Candamil</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717040000 +0000" stop="20200717050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717050000 +0000" stop="20200717055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+    <desc lang="es">Un excelente espacio para el periodismo serio, responsable y honesto. La noche debate los temas más importantes desde diferentes puntos de vista, para que cada televidente pueda sacar sus propias conclusiones(n)</desc>
+    <credits>
+      <director>Claudia Gurisati</director>
+      <actor>Claudia Gurisati</actor>
+      <actor>Jeisson Calderón</actor>
+      <actor>Carlos Sanabria</actor>
+      <actor>Carolina Hernández</actor>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717055000 +0000" stop="20200717062000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+    <desc lang="es">Para dar a conocer diferentes temas relacionados con el esoterismo, manejo de las energías, el mundo astral y consejos para que los televidentes puedan afrontar sus problemas de la vida diaria de una manera más acertada(n)</desc>
+    <credits>
+      <actor>Ayda Luz Valencia Castaño</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717062000 +0000" stop="20200717070000 +0000" channel="CANAL RCN">
+    <title lang="es">Mamá También</title>
+    <desc lang="es">Estudiantes de distintas edades y clases sociales se encontrarán con la expectativa del regreso a clases y último año de su vida escolar(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717070000 +0000" stop="20200717073000 +0000" channel="CANAL RCN">
+    <title lang="es">Los Graduados</title>
+    <desc lang="es">Los Graduados(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717073000 +0000" stop="20200717080000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717080000 +0000" stop="20200717084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717084000 +0000" stop="20200717091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717091000 +0000" stop="20200717095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+    <desc lang="es">Muestra al país y al mundo entero las cosas buenas que hace la gente del campo, sus tecnologías, su cultura, sus experiencias y lo más importante los ejemplos de vida que nos indican que el futuro de Colombia está en el campo. En un extenso recorrido por todo el territorio Colombiano hemos podido observar grandes, medianos y pequeños ejemplos de vida donde vemos que si es posible utilizar el campo como herramienta de desarrollo, donde desde el más pequeño campesino hasta el más avanzado industrial han podido contarnos como aplicando la ciencia y la tecnología se puede salir adelante en el campo. No solamente es un programa destinado al sector agrícola y pecuario, se tratan por igual los temas silvícolas, pesqueros, ecoturístico, agroturístico, alimentario, agroindustrial sin dejar a un lado lo social y ambiental(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717095000 +0000" stop="20200717103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+    <desc lang="es">Telenovela compactada y contada con toda su intensidad en una sola hora; un programa de divertimento familiar que nos permite emitir mensajes positivos, llenos de esperanza y de lucha(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717103000 +0000" stop="20200717143000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717143000 +0000" stop="20200717153000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor En Custodia</title>
+    <desc lang="es">La historia de dos mujeres de clase alta que se enamoran de sus escoltas(n)</desc>
+    <credits>
+      <director>Juan Carlos Vásquez</director>
+      <actor>Iván López</actor>
+      <actor>Ana Wills</actor>
+      <actor>Alejandra Borrero</actor>
+      <actor>Ernesto Calzadilla</actor>
+      <actor>Marcelo Dos Santos</actor>
+      <actor>Jenny Osorio</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717153000 +0000" stop="20200717163000 +0000" channel="CANAL RCN">
+    <title lang="es">Doña Bella</title>
+    <desc lang="es">La historia de un amor que fue destruido por la envidia y el poder(n)</desc>
+    <credits>
+      <director>Toni Navia</director>
+      <actor>Zharick León</actor>
+      <actor>Fabián Ríos</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717163000 +0000" stop="20200717173000 +0000" channel="CANAL RCN">
+    <title lang="es">Enfermeras</title>
+    <desc lang="es">Basada en las personas que realmente están pendiente de los tratamientos y cuidados de los pacientes dentro y fuera de los hospitales, pues ellas son quienes tienen que estar al tanto de quienes requieren de atención y estar informando a los doctores de la evolución de quienes tienen a cargo(n)</desc>
+    <credits>
+      <director>Victor Cantillo</director>
+      <actor>Sebastián Carvajal</actor>
+      <actor>Diana Hoyos</actor>
+      <actor>Viña Machado</actor>
+      <actor>Federico Rivera</actor>
+      <actor>Pedro Palacio</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717173000 +0000" stop="20200717193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717193000 +0000" stop="20200717203000 +0000" channel="CANAL RCN">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa nunca pudo aceptar haber nacido en el cobijo de una familia humilde y hará hasta lo imposible por tener dinero y poder, sin importar lo que deba hacer y por encima de quien tenga que pasar(n)</desc>
+    <credits>
+      <director>Sandra Cortés</director>
+      <actor>Sebastián Rulli</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Angelique Boyer</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717203000 +0000" stop="20200717213000 +0000" channel="CANAL RCN">
+    <title lang="es">Cuando Me Enamoro</title>
+    <desc lang="es">Una historia envuelta en amor, odio, envidia y venganza. Renata es una hermosa joven que fue arrebatada de los brazos de su mamá cuando era una bebé por la amante de su padre, debido a que él no quiso separarse de su esposa para irse con Josefina(n)</desc>
+    <credits>
+      <director>Karina Duprez</director>
+      <actor>Silvia Navarro</actor>
+      <actor>Juan Soler</actor>
+      <actor>Rocío Banquells</actor>
+      <actor>René Casados</actor>
+      <actor>Julieta Rosen</actor>
+      <actor>Jessica Coch</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717213000 +0000" stop="20200718000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+    <desc lang="es">Telenovela compactada y contada con toda su intensidad en una sola hora; un programa de divertimento familiar que nos permite emitir mensajes positivos, llenos de esperanza y de lucha(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718000000 +0000" stop="20200718010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718010000 +0000" stop="20200718020000 +0000" channel="CANAL RCN">
+    <title lang="es">Diomedes</title>
+    <desc lang="es">La historia de la vida y obra de un personaje que sin duda hace parte de nuestra historia musical y quien logró inmortalizarse a través de sus canciones(n)</desc>
+    <credits>
+      <director>Herney Luna</director>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718020000 +0000" stop="20200718030000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor Sincero</title>
+    <desc lang="es">Cuenta la vida de la artista colombiana Marbelle, desde los inicios de su carrera, hasta que se convierte en la estrella que es hoy en día(n)</desc>
+    <credits>
+      <director>Rodrigo Triana</director>
+      <actor>Marcela Benjumea</actor>
+      <actor>Carlos Manuel Vesga</actor>
+      <actor>Marbelle</actor>
+      <actor>Rodolfo Silva</actor>
+      <actor>Yuri Vargas</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718030000 +0000" stop="20200718040000 +0000" channel="CANAL RCN">
+    <title lang="es">Verdad Oculta</title>
+    <desc lang="es">La historia de la coronel Diana, quien después de capturar a un narcotraficante intenta salvar su matrimonio, pero todo da un giro inesperado(n)</desc>
+    <credits>
+      <actor>Verónica Orozco</actor>
+      <actor>Rodrigo Candamil</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718040000 +0000" stop="20200718050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718050000 +0000" stop="20200718055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+    <desc lang="es">Un excelente espacio para el periodismo serio, responsable y honesto. La noche debate los temas más importantes desde diferentes puntos de vista, para que cada televidente pueda sacar sus propias conclusiones(n)</desc>
+    <credits>
+      <director>Claudia Gurisati</director>
+      <actor>Claudia Gurisati</actor>
+      <actor>Jeisson Calderón</actor>
+      <actor>Carlos Sanabria</actor>
+      <actor>Carolina Hernández</actor>
+    </credits>
+    <category lang="es">Periodismo</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718055000 +0000" stop="20200718062000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+    <desc lang="es">Para dar a conocer diferentes temas relacionados con el esoterismo, manejo de las energías, el mundo astral y consejos para que los televidentes puedan afrontar sus problemas de la vida diaria de una manera más acertada(n)</desc>
+    <credits>
+      <actor>Ayda Luz Valencia Castaño</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718062000 +0000" stop="20200718070000 +0000" channel="CANAL RCN">
+    <title lang="es">Mamá También</title>
+    <desc lang="es">Estudiantes de distintas edades y clases sociales se encontrarán con la expectativa del regreso a clases y último año de su vida escolar(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718070000 +0000" stop="20200718073000 +0000" channel="CANAL RCN">
+    <title lang="es">Los Graduados</title>
+    <desc lang="es">Los Graduados(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718073000 +0000" stop="20200718080000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+    <desc lang="es">Telenovela(n)</desc>
+    <category lang="es">Telenovela</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718080000 +0000" stop="20200718084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718084000 +0000" stop="20200718095000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718095000 +0000" stop="20200718103000 +0000" channel="CANAL RCN">
+    <title lang="es">Betty Toons</title>
+    <desc lang="es">Dibujos animados(n)</desc>
+    <category lang="es">Animacion</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718103000 +0000" stop="20200718120000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+    <desc lang="es">El Chavo. Franja infantil de RCN, videojuegos, moda, ciencia, series, películas y mucho más(n)</desc>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718120000 +0000" stop="20200718123000 +0000" channel="CANAL RCN">
+    <title lang="es">Tu Tele</title>
+    <desc lang="es">La defensora atiende las observaciones de los televidentes, brinda las explicaciones pertinentes en la emisión de TUTELE y responde personalmente a todas y cada una de las inquietudes recibidas a través de correos electrónicos, llamadas y cartas que llegan a esta oficina(n)</desc>
+    <credits>
+      <director>Consuelo Cepeda</director>
+      <actor>Consuelo Cepeda</actor>
+    </credits>
+    <category lang="es">Entretenimiento</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718123000 +0000" stop="20200718153000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+    <desc lang="es">El Chavo. Franja infantil de RCN, videojuegos, moda, ciencia, series, películas y mucho más(n)</desc>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718153000 +0000" stop="20200718173000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+    <desc lang="es">El Chavo. Franja infantil de RCN, videojuegos, moda, ciencia, series, películas y mucho más(n)</desc>
+    <category lang="es">Infantil</category>
+    <rating system="CO">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20200718173000 +0000" stop="20200718193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales. Enviados especiales, entrevistas, opinión, debate y análisis con los protagonistas de la realidad(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718193000 +0000" stop="20200718230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718230000 +0000" stop="20200719050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719050000 +0000" stop="20200719110000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719110000 +0000" stop="20200719170000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719170000 +0000" stop="20200719230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719230000 +0000" stop="20200720050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720050000 +0000" stop="20200720110000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720110000 +0000" stop="20200720170000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720170000 +0000" stop="20200720230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720230000 +0000" stop="20200721050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721050000 +0000" stop="20200721110000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721110000 +0000" stop="20200721170000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721170000 +0000" stop="20200721230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721230000 +0000" stop="20200722050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722050000 +0000" stop="20200722110000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722110000 +0000" stop="20200722170000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722170000 +0000" stop="20200722230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722230000 +0000" stop="20200723050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723050000 +0000" stop="20200723110000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723110000 +0000" stop="20200723170000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723170000 +0000" stop="20200723230000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723230000 +0000" stop="20200724050000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+    <desc lang="es">Programación Canal RCN(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717000000 +0000" stop="20200717000200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717000200 +0000" stop="20200717003000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Construyendo Futuro</title>
+    <desc lang="es">Programa de la Presidencia de la República(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717003000 +0000" stop="20200717010000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Noticias Cámara Derepresentantes</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717010000 +0000" stop="20200717013000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profesor Yarumo</title>
+    <desc lang="es">Las Aventuras del Profesor Yarumo es un programa de televisión creado por la Federación Nacional de Cafeteros en el año 1985 con el propósito de contribuir educativamente con la conservación de los recursos naturales y brindarles a las familias caficultoras información ágil y pedagógica alrededor de la tecnología del café, la calidad del grano y la permanencia de los valores que siempre han caracterizado a los habitantes de las zonas cafeteras colombianas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717013000 +0000" stop="20200717020000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Administrando Justicia</title>
+    <desc lang="es">Programa del DPS(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717020000 +0000" stop="20200717021500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717021500 +0000" stop="20200717022500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Informativo Al Día A Las 9</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717022500 +0000" stop="20200717023000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Informativas</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717023000 +0000" stop="20200717030000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Clase</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717030000 +0000" stop="20200717040000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717040000 +0000" stop="20200717050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Franja Documental Encuadre Real</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717050000 +0000" stop="20200717053000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717053000 +0000" stop="20200717060000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Presidencia</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717060000 +0000" stop="20200717063000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujeres Pioneras</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717063000 +0000" stop="20200717070000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Educación Y Desarrollo</title>
+    <desc lang="es">Un programa por UNAD, tipo panel que aborda temas socioculturales, políticos, económicos, científicos e investigativos como agregados de alto impacto desde y hacia el sector educativo. En cada emisión, el programa proyecta las políticas de estado y su participación como institución en el planteamiento de alternativas de solución a la problemática nacional o internacional soportada en expertos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717070000 +0000" stop="20200717073000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717073000 +0000" stop="20200717080000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Todo Bajo Control</title>
+    <desc lang="es">La Contraloría General de la República cuenta con un espacio institucional para todos los colombianos(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717080000 +0000" stop="20200717083000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuraduría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduria(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717083000 +0000" stop="20200717090000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Con Olor A Región</title>
+    <desc lang="es">Programa de la Universidad Nacional Abierta y a Distancia (Unad) que presenta información sobre las actividades productivas de los diferentes departamentos y municipios del país. Sus protagonistas son empresarios locales y regionales que han incursionado con éxito en propuestas novedosas para abrirse campo como ejemplos nacionales de emprendimiento. Turismo, empresarismo, son parte de los temas desarrollados. En este espacio se encontrará con representantes de los diferentes sectores económicos que han sido estudiantes de la UNAD en todo el territorio nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717090000 +0000" stop="20200717093000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">A Volar</title>
+    <desc lang="es">A volar es el único programa especializado en aviación de la televisión colombiana. Si quieres saber todo acerca de las aeronaves que día día surcan los cielos de nuestro país, ya sabes, toma el control remoto y no te despegues del magazín(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717093000 +0000" stop="20200717100000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Tierra</title>
+    <desc lang="es">Un viaje alrededor de Colombia en el que los beneficiarios de Restitución nos contaran como la esperanza regreso a sus vidas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717100000 +0000" stop="20200717103000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Ica Comunica</title>
+    <desc lang="es">El Instituto Colombiano Agropecuario, Ica, tiene por objeto contribuir al desarrollo sostenido del sector agropecuario, pesquero y acuícola, mediante la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos para las especies animales y vegetales, la investigación aplicada y la administración, investigación y ordenamiento de los recursos pesqueros y acuícolas, con el fin de proteger la salud de las personas, los animales y las plantas y asegurar las condiciones del comercio.Vea en el programa notas relacionadas con estos temas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717103000 +0000" stop="20200717110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mis Manos Te Enseñan Tv</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717110000 +0000" stop="20200717130000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Señal De La Mañana</title>
+    <desc lang="es">Programa de RTVC / Radio Nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717130000 +0000" stop="20200717130500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Boletín Coronavirus</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717130500 +0000" stop="20200717132000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717132000 +0000" stop="20200717133000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Informativas</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717133000 +0000" stop="20200717140000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717140000 +0000" stop="20200717143000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717143000 +0000" stop="20200717150000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">El Reportero</title>
+    <desc lang="es">Programa de la DW(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717150000 +0000" stop="20200717160000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profe En Tu Casa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717160000 +0000" stop="20200717163000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Keiser Report</title>
+    <desc lang="es">Programa de emprendimiento(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717163000 +0000" stop="20200717170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717170000 +0000" stop="20200717173000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717173000 +0000" stop="20200717180000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Boletín Coronav / Euronews</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717180000 +0000" stop="20200717190000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Colombia Al Aire</title>
+    <desc lang="es">Programa del Canal Institucional - Radio Nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717190000 +0000" stop="20200717193000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Dw Noticias / Economía Dw</title>
+    <desc lang="es">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. DW noticias: atando cabos para espectadores de todo el mundo. Con independencia periodística transmiten una imagen ampliada sobre Alemania, plasman hechos y ofrecen perspectivas no sólo alemanas. De esta manera, fomentan el entendimiento entre las culturas y los pueblos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717193000 +0000" stop="20200717200000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">El Mundo Al Día</title>
+    <desc lang="es">Programa Del Senado De VOA(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717200000 +0000" stop="20200717210000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Franja Documental Encuadre Real</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717210000 +0000" stop="20200717213000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Clase</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717213000 +0000" stop="20200717223000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profe En Tu Casa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717223000 +0000" stop="20200717230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Enlaces</title>
+    <desc lang="es">Cómo influye y cambia Internet nuestra vida? El magacín informa sobre las últimas tendencias en la cultura de la red y presenta curiosas ideas de usuarios y profesionales de Internet. Nuestro viaje semanal al mundo digital(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200717230000 +0000" stop="20200718000000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718000000 +0000" stop="20200718000200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718000200 +0000" stop="20200718003000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718003000 +0000" stop="20200718010000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Comisión De La Verdad</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718010000 +0000" stop="20200718013000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujeres Pioneras</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718013000 +0000" stop="20200718020000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Educación Y Desarrollo</title>
+    <desc lang="es">Un programa por UNAD, tipo panel que aborda temas socioculturales, políticos, económicos, científicos e investigativos como agregados de alto impacto desde y hacia el sector educativo. En cada emisión, el programa proyecta las políticas de estado y su participación como institución en el planteamiento de alternativas de solución a la problemática nacional o internacional soportada en expertos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718020000 +0000" stop="20200718021500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718021500 +0000" stop="20200718022500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Informativo Al Día A Las 9</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718022500 +0000" stop="20200718023000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Informativas</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718023000 +0000" stop="20200718030000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Clase</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718030000 +0000" stop="20200718040000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718040000 +0000" stop="20200718050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Franja Documental Encuadre Real - Inmigrantes</title>
+    <desc lang="es">Documentales que le llevarán a los colombianos una franja de contenidos de alta calidad que contaran la verdadera historia de los sucesos que han marcado al país y al mundo(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718050000 +0000" stop="20200718053000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718053000 +0000" stop="20200718060000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Presidencia</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718060000 +0000" stop="20200718063000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujer Es Saber</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718063000 +0000" stop="20200718070000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Educación Y Desarrollo</title>
+    <desc lang="es">Un programa por UNAD, tipo panel que aborda temas socioculturales, políticos, económicos, científicos e investigativos como agregados de alto impacto desde y hacia el sector educativo. En cada emisión, el programa proyecta las políticas de estado y su participación como institución en el planteamiento de alternativas de solución a la problemática nacional o internacional soportada en expertos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718070000 +0000" stop="20200718073000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Ica Comunica</title>
+    <desc lang="es">El Instituto Colombiano Agropecuario, Ica, tiene por objeto contribuir al desarrollo sostenido del sector agropecuario, pesquero y acuícola, mediante la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos para las especies animales y vegetales, la investigación aplicada y la administración, investigación y ordenamiento de los recursos pesqueros y acuícolas, con el fin de proteger la salud de las personas, los animales y las plantas y asegurar las condiciones del comercio.Vea en el programa notas relacionadas con estos temas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718073000 +0000" stop="20200718080000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Todo Bajo Control</title>
+    <desc lang="es">La Contraloría General de la República cuenta con un espacio institucional para todos los colombianos(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718080000 +0000" stop="20200718083000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuraduría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduria(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718083000 +0000" stop="20200718090000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Con Olor A Región</title>
+    <desc lang="es">Programa de la Universidad Nacional Abierta y a Distancia (Unad) que presenta información sobre las actividades productivas de los diferentes departamentos y municipios del país. Sus protagonistas son empresarios locales y regionales que han incursionado con éxito en propuestas novedosas para abrirse campo como ejemplos nacionales de emprendimiento. Turismo, empresarismo, son parte de los temas desarrollados. En este espacio se encontrará con representantes de los diferentes sectores económicos que han sido estudiantes de la UNAD en todo el territorio nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718090000 +0000" stop="20200718093000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">A Volar</title>
+    <desc lang="es">A volar es el único programa especializado en aviación de la televisión colombiana. Si quieres saber todo acerca de las aeronaves que día día surcan los cielos de nuestro país, ya sabes, toma el control remoto y no te despegues del magazín(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718093000 +0000" stop="20200718100000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Nuestra Huella</title>
+    <desc lang="es">Programa De La Registraduría(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718100000 +0000" stop="20200718103000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718103000 +0000" stop="20200718110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Tierra</title>
+    <desc lang="es">Un viaje alrededor de Colombia en el que los beneficiarios de Restitución nos contaran como la esperanza regreso a sus vidas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718110000 +0000" stop="20200718113000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profesor Yarumo</title>
+    <desc lang="es">Las Aventuras del Profesor Yarumo es un programa de televisión creado por la Federación Nacional de Cafeteros en el año 1985 con el propósito de contribuir educativamente con la conservación de los recursos naturales y brindarles a las familias caficultoras información ágil y pedagógica alrededor de la tecnología del café, la calidad del grano y la permanencia de los valores que siempre han caracterizado a los habitantes de las zonas cafeteras colombianas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718113000 +0000" stop="20200718120000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Todo Bajo Control</title>
+    <desc lang="es">La Contraloría General de la República cuenta con un espacio institucional para todos los colombianos(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718120000 +0000" stop="20200718123000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuradauría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduría(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718123000 +0000" stop="20200718123200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718123200 +0000" stop="20200718131500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718131500 +0000" stop="20200718133000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718133000 +0000" stop="20200718140000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Economía Creativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718140000 +0000" stop="20200718163000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718163000 +0000" stop="20200718170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Escápate</title>
+    <desc lang="es">Programa de la DW(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718170000 +0000" stop="20200718173000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Enlaces</title>
+    <desc lang="es">Cómo influye y cambia Internet nuestra vida? El magacín informa sobre las últimas tendencias en la cultura de la red y presenta curiosas ideas de usuarios y profesionales de Internet. Nuestro viaje semanal al mundo digital(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718173000 +0000" stop="20200718180000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Visión Futuro</title>
+    <desc lang="es">La emisión de DW sobre ciencia. Dirigido a todos los que se interesan por la ciencia y la investigación en Alemania y Europa. En un lenguaje asequible, con una atractiva presentación y siempre al tanto de las nuevas tendencias(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718180000 +0000" stop="20200718183000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Global 3000</title>
+    <desc lang="es">El magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización. Global 3000 da un rostro al mundo globalizado(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718183000 +0000" stop="20200718183200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718183200 +0000" stop="20200718190000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Construyendo Futuro</title>
+    <desc lang="es">Programa de la Presidencia de la República(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718190000 +0000" stop="20200718193000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Con Olor A Región</title>
+    <desc lang="es">Programa de la Universidad Nacional Abierta y a Distancia (Unad) que presenta información sobre las actividades productivas de los diferentes departamentos y municipios del país. Sus protagonistas son empresarios locales y regionales que han incursionado con éxito en propuestas novedosas para abrirse campo como ejemplos nacionales de emprendimiento. Turismo, empresarismo, son parte de los temas desarrollados. En este espacio se encontrará con representantes de los diferentes sectores económicos que han sido estudiantes de la UNAD en todo el territorio nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718193000 +0000" stop="20200718200000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718200000 +0000" stop="20200718203000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Ica Comunica</title>
+    <desc lang="es">El Instituto Colombiano Agropecuario, Ica, tiene por objeto contribuir al desarrollo sostenido del sector agropecuario, pesquero y acuícola, mediante la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos para las especies animales y vegetales, la investigación aplicada y la administración, investigación y ordenamiento de los recursos pesqueros y acuícolas, con el fin de proteger la salud de las personas, los animales y las plantas y asegurar las condiciones del comercio.Vea en el programa notas relacionadas con estos temas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718203000 +0000" stop="20200718213000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Crónicas De Una Generación Trágica</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718213000 +0000" stop="20200718220000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujeres Pioneras</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718220000 +0000" stop="20200718223000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Patrimonio Mundial</title>
+    <desc lang="es">Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo. Narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718223000 +0000" stop="20200718230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Búsqueda Es Contigo</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718230000 +0000" stop="20200718233000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Comisión De La Verdad</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200718233000 +0000" stop="20200719000000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Facebook Live Del Presidente Iván Duque</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719000000 +0000" stop="20200719000200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719000200 +0000" stop="20200719003000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Administrando Justicia</title>
+    <desc lang="es">Programa del DPS(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719003000 +0000" stop="20200719010000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profesor Yarumo</title>
+    <desc lang="es">Las Aventuras del Profesor Yarumo es un programa de televisión creado por la Federación Nacional de Cafeteros en el año 1985 con el propósito de contribuir educativamente con la conservación de los recursos naturales y brindarles a las familias caficultoras información ágil y pedagógica alrededor de la tecnología del café, la calidad del grano y la permanencia de los valores que siempre han caracterizado a los habitantes de las zonas cafeteras colombianas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719010000 +0000" stop="20200719013000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuraduría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduria(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719013000 +0000" stop="20200719020000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Videocast De La Clase</title>
+    <desc lang="es">Transmisión De La Audiencia Ante La Sala Plena Del Consejo De Estado De Los Candidatos A Magistrados De La Corte Constitucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719020000 +0000" stop="20200719030000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">A La Luz De Mi Oscuridad</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Otro</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719030000 +0000" stop="20200719033000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Estudio 5</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719033000 +0000" stop="20200719040000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujeres Pioneras</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719040000 +0000" stop="20200719043000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Tierra</title>
+    <desc lang="es">Un viaje alrededor de Colombia en el que los beneficiarios de Restitución nos contaran como la esperanza regreso a sus vidas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719043000 +0000" stop="20200719050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">A Volar</title>
+    <desc lang="es">A volar es el único programa especializado en aviación de la televisión colombiana. Si quieres saber todo acerca de las aeronaves que día día surcan los cielos de nuestro país, ya sabes, toma el control remoto y no te despegues del magazín(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719050000 +0000" stop="20200719053000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profesor Yarumo</title>
+    <desc lang="es">Las Aventuras del Profesor Yarumo es un programa de televisión creado por la Federación Nacional de Cafeteros en el año 1985 con el propósito de contribuir educativamente con la conservación de los recursos naturales y brindarles a las familias caficultoras información ágil y pedagógica alrededor de la tecnología del café, la calidad del grano y la permanencia de los valores que siempre han caracterizado a los habitantes de las zonas cafeteras colombianas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719053000 +0000" stop="20200719060000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719060000 +0000" stop="20200719063000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Informativas</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719063000 +0000" stop="20200719070000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Tierra</title>
+    <desc lang="es">Un viaje alrededor de Colombia en el que los beneficiarios de Restitución nos contaran como la esperanza regreso a sus vidas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719070000 +0000" stop="20200719073000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mis Manos Te Enseñan Tv</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719073000 +0000" stop="20200719080000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Ica Comunica</title>
+    <desc lang="es">El Instituto Colombiano Agropecuario, Ica, tiene por objeto contribuir al desarrollo sostenido del sector agropecuario, pesquero y acuícola, mediante la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos para las especies animales y vegetales, la investigación aplicada y la administración, investigación y ordenamiento de los recursos pesqueros y acuícolas, con el fin de proteger la salud de las personas, los animales y las plantas y asegurar las condiciones del comercio.Vea en el programa notas relacionadas con estos temas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719080000 +0000" stop="20200719083000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719083000 +0000" stop="20200719090000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Con Olor A Región</title>
+    <desc lang="es">Programa de la Universidad Nacional Abierta y a Distancia (Unad) que presenta información sobre las actividades productivas de los diferentes departamentos y municipios del país. Sus protagonistas son empresarios locales y regionales que han incursionado con éxito en propuestas novedosas para abrirse campo como ejemplos nacionales de emprendimiento. Turismo, empresarismo, son parte de los temas desarrollados. En este espacio se encontrará con representantes de los diferentes sectores económicos que han sido estudiantes de la UNAD en todo el territorio nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719090000 +0000" stop="20200719093000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Clase</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719093000 +0000" stop="20200719100000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Nuestra Huella</title>
+    <desc lang="es">Programa De La Registraduría(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719100000 +0000" stop="20200719103000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719103000 +0000" stop="20200719104500 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Cápsulas Informativas</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719104500 +0000" stop="20200719110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719110000 +0000" stop="20200719113000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Profesor Yarumo</title>
+    <desc lang="es">Las Aventuras del Profesor Yarumo es un programa de televisión creado por la Federación Nacional de Cafeteros en el año 1985 con el propósito de contribuir educativamente con la conservación de los recursos naturales y brindarles a las familias caficultoras información ágil y pedagógica alrededor de la tecnología del café, la calidad del grano y la permanencia de los valores que siempre han caracterizado a los habitantes de las zonas cafeteras colombianas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719113000 +0000" stop="20200719120000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Todo Bajo Control</title>
+    <desc lang="es">La Contraloría General de la República cuenta con un espacio institucional para todos los colombianos(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719120000 +0000" stop="20200719123000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Ica Comunica</title>
+    <desc lang="es">El Instituto Colombiano Agropecuario, Ica, tiene por objeto contribuir al desarrollo sostenido del sector agropecuario, pesquero y acuícola, mediante la prevención, vigilancia y control de los riesgos sanitarios, biológicos y químicos para las especies animales y vegetales, la investigación aplicada y la administración, investigación y ordenamiento de los recursos pesqueros y acuícolas, con el fin de proteger la salud de las personas, los animales y las plantas y asegurar las condiciones del comercio.Vea en el programa notas relacionadas con estos temas(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719123000 +0000" stop="20200719123200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719123200 +0000" stop="20200719130000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuraduría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduria(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719130000 +0000" stop="20200719133000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mis Manos Te Enseñan</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719133000 +0000" stop="20200719140000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Economía Creativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719140000 +0000" stop="20200719143000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719143000 +0000" stop="20200719150000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Reporteros En El Mundo</title>
+    <desc lang="es">Fascinantes reportajes e informes de las destacadas emisoras con las que DW coopera internacionalmente. Periodistas de todo el globo comparten su visión del propio país, de su gente y sus asuntos. Producido en español para América Latina(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719150000 +0000" stop="20200719153000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Enlaces</title>
+    <desc lang="es">Cómo influye y cambia Internet nuestra vida? El magacín informa sobre las últimas tendencias en la cultura de la red y presenta curiosas ideas de usuarios y profesionales de Internet. Nuestro viaje semanal al mundo digital(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719153000 +0000" stop="20200719160000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Visión Futuro</title>
+    <desc lang="es">La emisión de DW sobre ciencia. Dirigido a todos los que se interesan por la ciencia y la investigación en Alemania y Europa. En un lenguaje asequible, con una atractiva presentación y siempre al tanto de las nuevas tendencias(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719160000 +0000" stop="20200719163000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">El Reportero</title>
+    <desc lang="es">Programa de la DW(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719163000 +0000" stop="20200719170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Global 3000</title>
+    <desc lang="es">El magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización. Global 3000 da un rostro al mundo globalizado(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719170000 +0000" stop="20200719173000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Tv Municipios</title>
+    <desc lang="es">Programa De Fedemunicipios(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719173000 +0000" stop="20200719180000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Noticiero Del Senado</title>
+    <desc lang="es">Nos cuenta las noticias y los temas más destacados de la semana legislativa en el Senado de la República, como preferencias arancelarias, alianza del pacifico, acuerdos comerciales, entre otros(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719180000 +0000" stop="20200719183000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Noticias Cámara Derepresentantes</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719183000 +0000" stop="20200719183200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719183200 +0000" stop="20200719190000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719190000 +0000" stop="20200719193000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Alianza Regional Informativa</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719193000 +0000" stop="20200719203000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Crónicas De Una Generación Trágica</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719203000 +0000" stop="20200719210000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mujeres Pioneras</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719210000 +0000" stop="20200719213000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Patrimonio Mundial</title>
+    <desc lang="es">Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo. Narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719213000 +0000" stop="20200719220000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Con Olor A Región</title>
+    <desc lang="es">Programa de la Universidad Nacional Abierta y a Distancia (Unad) que presenta información sobre las actividades productivas de los diferentes departamentos y municipios del país. Sus protagonistas son empresarios locales y regionales que han incursionado con éxito en propuestas novedosas para abrirse campo como ejemplos nacionales de emprendimiento. Turismo, empresarismo, son parte de los temas desarrollados. En este espacio se encontrará con representantes de los diferentes sectores económicos que han sido estudiantes de la UNAD en todo el territorio nacional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719220000 +0000" stop="20200719223000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Más Tic, Mejor País</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719223000 +0000" stop="20200719230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Videocast De La Clase Radiónica</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719230000 +0000" stop="20200719233000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Las Aventuras Del Profesor Yarumo</title>
+    <desc lang="es">Programa de RTVC(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200719233000 +0000" stop="20200720000000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Facebook Live Del Presidente Iván Duque</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720000000 +0000" stop="20200720000200 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Pronóstico Del Tiempo</title>
+    <desc lang="es">Programa del IDEAM(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720000200 +0000" stop="20200720003000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">A Volar</title>
+    <desc lang="es">A volar es el único programa especializado en aviación de la televisión colombiana. Si quieres saber todo acerca de las aeronaves que día día surcan los cielos de nuestro país, ya sabes, toma el control remoto y no te despegues del magazín(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720003000 +0000" stop="20200720010000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Construyendo Futuro</title>
+    <desc lang="es">Programa de la Presidencia de la República(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720010000 +0000" stop="20200720013000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Sic Teve</title>
+    <desc lang="es">SIC Te Ve regresa en una nueva temporada, cargado de nuevas historias para contarles lo que viene haciendo la Superintendencia de Industria y Comercio por los consumidores colombianos. No se lo pierda éste y todos los domingos(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720013000 +0000" stop="20200720020000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Mis Manos Te Enseñan Tv</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Religioso</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720020000 +0000" stop="20200720023000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">La Búsqueda Es Contigo</title>
+    <desc lang="es">Programa Del Canal Institucional(n)</desc>
+    <category lang="es">Noticias</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720023000 +0000" stop="20200720033000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Crónicas De Una Generación Trágica</title>
+    <desc lang="es">Programa del Canal Institucional(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720033000 +0000" stop="20200720040000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Bien Dateado</title>
+    <desc lang="es">Espacio donde se le brinda a la sociedad colombiana información de interés general. Todo esto a través de contenidos para la televisión que se complementan en el mundo digital del Canal Institucional. Se busca, además, fortalecer la participación ciudadana a través de las redes sociales y web(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720040000 +0000" stop="20200720043000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Patrimonio Mundial</title>
+    <desc lang="es">Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo. Narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes(n)</desc>
+    <category lang="es">Cultural</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720043000 +0000" stop="20200720050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Procuraduría Ciudadana</title>
+    <desc lang="es">Programa de la Procuraduria(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720050000 +0000" stop="20200720110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720110000 +0000" stop="20200720170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720170000 +0000" stop="20200720230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200720230000 +0000" stop="20200721050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721050000 +0000" stop="20200721110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721110000 +0000" stop="20200721170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721170000 +0000" stop="20200721230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200721230000 +0000" stop="20200722050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722050000 +0000" stop="20200722110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722110000 +0000" stop="20200722170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722170000 +0000" stop="20200722230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200722230000 +0000" stop="20200723050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723050000 +0000" stop="20200723110000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723110000 +0000" stop="20200723170000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723170000 +0000" stop="20200723230000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20200723230000 +0000" stop="20200724050000 +0000" channel="CANAL INSTITUCIONAL">
+    <title lang="es">Canal Institucional</title>
+    <desc lang="es">Programación Canal Institucional(n)</desc>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+</tv>
