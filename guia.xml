@@ -6948,8 +6948,8 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20210205183700 -0600" stop="20210205191300 -0600" channel="Canal Discovery Kids (México)">
-    <title lang="es">¡Agente Binky al rescate</title>
+  <programme start="20210205191300 -0600" stop="20210205200700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Cazadores de monstruos</title>
   </programme>
   <programme start="20210205212700 -0600" stop="20210205215400 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Polly Pocket</title>
@@ -18426,8 +18426,8 @@
   <programme start="20210204160000 -0600" stop="20210204165000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">12 corazones</title>
   </programme>
-  <programme start="20210204183000 -0600" stop="20210204192000 -0600" channel="Canal Telemundo (México)">
-    <title lang="es">Lo mejor de caso cerrado</title>
+  <programme start="20210204192000 -0600" stop="20210204210000 -0600" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
   </programme>
   <programme start="20210205060000 -0600" stop="20210205090000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">12 corazones</title>
@@ -19193,8 +19193,8 @@
   <programme start="20210204140000 -0600" stop="20210204143000 -0600" channel="Canal Elgourmet">
     <title lang="es">Los Petersen pastas y pizzas</title>
   </programme>
-  <programme start="20210204190000 -0600" stop="20210204193000 -0600" channel="Canal Elgourmet">
-    <title lang="es">Sazón Casero</title>
+  <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Canal Elgourmet">
+    <title lang="es">Platos de cuchara</title>
   </programme>
   <programme start="20210204200000 -0600" stop="20210204203000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guanajuato, tradición</title>
@@ -19502,14 +19502,14 @@
   <programme start="20210203230000 -0600" stop="20210204000000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
     <title lang="es">Estudio Actoral</title>
   </programme>
-  <programme start="20210204190000 -0600" stop="20210204193000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
-    <title lang="es">Será Anunciado</title>
-  </programme>
   <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
     <title lang="es">Los más buscados</title>
   </programme>
   <programme start="20210205190000 -0600" stop="20210205193000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
     <title lang="es">ABC en Señas</title>
+  </programme>
+  <programme start="20210205193000 -0600" stop="20210205200000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">COVID-19 sector privado</title>
   </programme>
   <programme start="20210206030000 -0600" stop="20210206033000 -0600" channel="Canal 6 de Puerto Rico (WIPR-TV)">
     <title lang="es">La Casa de María Chuzema</title>
@@ -49765,8 +49765,8 @@
   <programme start="20210204153000 -0600" stop="20210204163000 -0600" channel="Canal 13 de Colombia (Trece)">
     <title lang="es">Resonantes</title>
   </programme>
-  <programme start="20210204190000 -0600" stop="20210204193000 -0600" channel="Canal 13 de Colombia (Trece)">
-    <title lang="es">Ensamble una fusión regional</title>
+  <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Débora la mujer que cautivó a colombia</title>
   </programme>
   <programme start="20210205084500 -0600" stop="20210205090000 -0600" channel="Canal 13 de Colombia (Trece)">
     <title lang="es">Wawawitas</title>
@@ -50053,9 +50053,6 @@
   <programme start="20210204180000 -0600" stop="20210204183000 -0600" channel="Canal Tro">
     <title lang="es">Con sabor y saber</title>
     <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20210204183000 -0600" stop="20210204193000 -0600" channel="Canal Tro">
-    <title lang="es">Oro noticias</title>
   </programme>
   <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Canal Tro">
     <title lang="es">Contacoop</title>
